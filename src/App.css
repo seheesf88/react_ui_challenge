@@ -1,38 +1,67 @@
-.App {
-  text-align: center;
+.home {
+  background-color: black;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.home_box {
+  position: relative;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.title_home {
   color: white;
+  font-family: fantasy;
+  font-size: 40px;
+  font-weight: bold;
+  /* margin-left: 40%;
+  margin-top: 15%; */
+  position: absolute;
+  z-index: 999;
+
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 200px 20%; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation:
+  typing 3.5s steps(40, end),
+  blink-caret .75s step-end infinite;
 }
 
-.App-link {
-  color: #61dafb;
+.book_btn {
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  z-index: 999;
+  border: 2px solid white;
+  margin-left: 40%;
+  margin-top: 40%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+@keyframes typing {
+  from { width: 0 }
+  to { width: 60% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
+.ourbook {
+  width: 90%;
+  height: 80%;
+  margin-left: 5%;
+  margin-top: -5%;
+}
+
+
+.first_impression {
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  backface-visibility: hidden;
+}
+
+.real_you {
 }
