@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_ui_challenge/static/css/main.bd435ffc.chunk.css",
+    "main.js": "/react_ui_challenge/static/js/main.b354f8f1.chunk.js",
+    "main.js.map": "/react_ui_challenge/static/js/main.b354f8f1.chunk.js.map",
+    "runtime-main.js": "/react_ui_challenge/static/js/runtime-main.aca6a594.js",
+    "runtime-main.js.map": "/react_ui_challenge/static/js/runtime-main.aca6a594.js.map",
+    "static/js/2.8e271150.chunk.js": "/react_ui_challenge/static/js/2.8e271150.chunk.js",
+    "static/js/2.8e271150.chunk.js.map": "/react_ui_challenge/static/js/2.8e271150.chunk.js.map",
+    "index.html": "/react_ui_challenge/index.html",
+    "precache-manifest.d9f28218fe94900f0f6c0f91054ddb6b.js": "/react_ui_challenge/precache-manifest.d9f28218fe94900f0f6c0f91054ddb6b.js",
+    "service-worker.js": "/react_ui_challenge/service-worker.js",
+    "static/css/main.bd435ffc.chunk.css.map": "/react_ui_challenge/static/css/main.bd435ffc.chunk.css.map",
+    "static/js/2.8e271150.chunk.js.LICENSE.txt": "/react_ui_challenge/static/js/2.8e271150.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aca6a594.js",
+    "static/js/2.8e271150.chunk.js",
+    "static/css/main.bd435ffc.chunk.css",
+    "static/js/main.b354f8f1.chunk.js"
+  ]
+}
