@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react_ui_challenge/static/css/main.bd435ffc.chunk.css",
-    "main.js": "/react_ui_challenge/static/js/main.cb637cf6.chunk.js",
-    "main.js.map": "/react_ui_challenge/static/js/main.cb637cf6.chunk.js.map",
+    "main.js": "/react_ui_challenge/static/js/main.c9f0ee3a.chunk.js",
+    "main.js.map": "/react_ui_challenge/static/js/main.c9f0ee3a.chunk.js.map",
     "runtime-main.js": "/react_ui_challenge/static/js/runtime-main.aca6a594.js",
     "runtime-main.js.map": "/react_ui_challenge/static/js/runtime-main.aca6a594.js.map",
-    "static/js/2.8e271150.chunk.js": "/react_ui_challenge/static/js/2.8e271150.chunk.js",
-    "static/js/2.8e271150.chunk.js.map": "/react_ui_challenge/static/js/2.8e271150.chunk.js.map",
+    "static/js/2.888d587e.chunk.js": "/react_ui_challenge/static/js/2.888d587e.chunk.js",
+    "static/js/2.888d587e.chunk.js.map": "/react_ui_challenge/static/js/2.888d587e.chunk.js.map",
     "index.html": "/react_ui_challenge/index.html",
-    "precache-manifest.5364e51650809784025c20603c9d6f1e.js": "/react_ui_challenge/precache-manifest.5364e51650809784025c20603c9d6f1e.js",
+    "precache-manifest.e76ddbe356aaa6ee8af05d538b47a6de.js": "/react_ui_challenge/precache-manifest.e76ddbe356aaa6ee8af05d538b47a6de.js",
     "service-worker.js": "/react_ui_challenge/service-worker.js",
     "static/css/main.bd435ffc.chunk.css.map": "/react_ui_challenge/static/css/main.bd435ffc.chunk.css.map",
-    "static/js/2.8e271150.chunk.js.LICENSE.txt": "/react_ui_challenge/static/js/2.8e271150.chunk.js.LICENSE.txt"
+    "static/js/2.888d587e.chunk.js.LICENSE.txt": "/react_ui_challenge/static/js/2.888d587e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aca6a594.js",
-    "static/js/2.8e271150.chunk.js",
+    "static/js/2.888d587e.chunk.js",
     "static/css/main.bd435ffc.chunk.css",
-    "static/js/main.cb637cf6.chunk.js"
+    "static/js/main.c9f0ee3a.chunk.js"
   ]
 }

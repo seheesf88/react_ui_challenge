@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c0be48eeba4f1ee14c11a90ca7590bc",
+    "revision": "e0477a14f9d3c4a0a675e0b3c3c8b1de",
     "url": "/react_ui_challenge/index.html"
   },
   {
-    "revision": "394c48cb1b802e51d2a2",
+    "revision": "f2fcd2b76c26abb57744",
     "url": "/react_ui_challenge/static/css/main.bd435ffc.chunk.css"
   },
   {
-    "revision": "6d272160de66d02e3500",
-    "url": "/react_ui_challenge/static/js/2.8e271150.chunk.js"
+    "revision": "8128e0279facd2324f6f",
+    "url": "/react_ui_challenge/static/js/2.888d587e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react_ui_challenge/static/js/2.8e271150.chunk.js.LICENSE.txt"
+    "url": "/react_ui_challenge/static/js/2.888d587e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "394c48cb1b802e51d2a2",
-    "url": "/react_ui_challenge/static/js/main.cb637cf6.chunk.js"
+    "revision": "f2fcd2b76c26abb57744",
+    "url": "/react_ui_challenge/static/js/main.c9f0ee3a.chunk.js"
   },
   {
     "revision": "1371613248edd880459e",
